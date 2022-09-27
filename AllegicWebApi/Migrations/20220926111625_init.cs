@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace AllegicWebApi.Migrations
+namespace LoginSystemApi.Migrations
 {
     public partial class init : Migration
     {

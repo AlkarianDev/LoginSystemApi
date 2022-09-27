@@ -9,10 +9,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace AllegicWebApi.Migrations
+namespace LoginSystemApi.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20220914144002_init")]
+    [Migration("20220926111625_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
